@@ -1,0 +1,54 @@
+{
+  "name": "gps-tracking",
+  "version": "1.0.5",
+  "description": "Let you work with some GPS trackers that connects through tcp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freshworkstudio/gps-tracking-nodejs.git"
+  },
+  "keywords": [
+    "gps",
+    "tracker",
+    "Tk103",
+    "car",
+    "gps"
+  ],
+  "author": {
+    "name": "Gonzalo De-Spirito",
+    "url": "http://www.freshworkstudio.com/"
+  },
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/freshworkstudio/gps-tracking-nodejs/issues"
+  },
+  "homepage": "https://github.com/freshworkstudio/gps-tracking-nodejs",
+  "dependencies": {
+    "node.extend": "*"
+  },
+  "gitHead": "eb068cbb5133c445d291a3193ef44fb658fd030e",
+  "_id": "gps-tracking@1.0.5",
+  "_shasum": "d37f17159d9ff80008ed1cb53827144cf63ebf4a",
+  "_from": "gps-tracking@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "freshwork",
+    "email": "gonzalo@freshworkstudio.com"
+  },
+  "maintainers": [
+    {
+      "name": "freshwork",
+      "email": "gonzalo@freshworkstudio.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d37f17159d9ff80008ed1cb53827144cf63ebf4a",
+    "tarball": "http://registry.npmjs.org/gps-tracking/-/gps-tracking-1.0.5.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gps-tracking/-/gps-tracking-1.0.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
